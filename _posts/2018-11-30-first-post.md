@@ -5,12 +5,11 @@ image: /img/hello_world.jpeg
 ---
 Hello world!
 
->#include <stdio.h>
->
->int main (void)
->{
->   printf("Hello, World!");
->   return 0;
+>#include <stdio.h>  
+>int main (void)  
+>{  
+>   printf("Hello, World!");  
+>   return 0;  
 >}
 
 
