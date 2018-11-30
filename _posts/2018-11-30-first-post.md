@@ -6,15 +6,15 @@ image: /img/hello_world.jpeg
 Hello world!
 
 >#include <stdio.h>   
-
+>
 >int main (void)  
-
+>
 >{  
-
+>
 >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;printf("Hello, World!");    
-
+>
 >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;return 0;  
-
+>
 >}  
 
 
