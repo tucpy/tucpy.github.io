@@ -6,7 +6,7 @@ subtitle: Why you'd want to go on a date with me
 
 ### Short Bio
 
-Hey, thank you for visiting my site. My name is Tu Le. I am microbiologist trying to navigate my ways through the microbe universe.
+Hey, thank you for visiting my site. My name is Tu Le. I am a microbiologist trying to navigate my ways through the invisible microbial universe.
 
 
 ### my history
