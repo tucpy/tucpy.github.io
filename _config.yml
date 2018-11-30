@@ -24,12 +24,6 @@ description: Personal Homepage
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
-  Author's home: "http://deanattali.com"
-  
   Home: "index"
   Publications: "publications"
   Resume: "CV.pdf"
@@ -70,7 +64,7 @@ footer-link-col: "#404040"
 author: 
   name: Tu Thi Phuong Le
   email: "phtu05@gmail.com"
-  github: tucpy
+  #github: tucpy
   linkedin: tulephuong
 
 # Select your active Social Network Links.
