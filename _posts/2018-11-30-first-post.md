@@ -7,14 +7,10 @@ Hello world!
 
 > #include <stdio.h>   
 >
-> int main (void)
->
-> {
->
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;printf("Hello, World!");
->
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;return 0;
-> 
+> int main (void)  
+> {  
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;printf("Hello, World!");  
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;return 0;  
 > }  
 
 
